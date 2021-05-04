@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("second commit");
         System.out.println("third commit");
         System.out.println("hot-fix commit");
+        System.out.println("github commit");    // github上增加内容并提交
     }
 }
